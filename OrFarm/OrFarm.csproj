@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\OrFarmAdmin\Controllers\" />
+    <Folder Include="Areas\OrFarmAdmin\Data\" />
+    <Folder Include="Areas\OrFarmAdmin\Models\" />
+    <Folder Include="Areas\OrFarmAdmin\Views\" />
+    <Folder Include="wwwroot\assets\img\breadcrumb\" />
+    <Folder Include="wwwroot\assets\img\portfolio\" />
+    <Folder Include="wwwroot\assets\img\services\" />
+    <Folder Include="wwwroot\assets\img\team\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+</Project>
