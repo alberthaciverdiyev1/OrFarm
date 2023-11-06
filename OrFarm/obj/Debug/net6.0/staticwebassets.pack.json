@@ -1,1412 +1,1412 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OrFarm.bundle.scp.css",
-      "PackagePath": "staticwebassets\\OrFarm.bundle.scp.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Orfarm.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Orfarm.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\animate.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\icon-dukamarket.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\icon-dukamarket.css",
       "PackagePath": "staticwebassets\\assets\\css\\icon-dukamarket.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\jquery-ui.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\main.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\main.css.map",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\main.css.map",
       "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\meanmenu.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\meanmenu.css",
       "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\nice-select.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\slick.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\slick.css",
       "PackagePath": "staticwebassets\\assets\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\spacing.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\spacing.css",
       "PackagePath": "staticwebassets\\assets\\css\\spacing.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\css\\swiper-bundle.css",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\css\\swiper-bundle.css",
       "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.css"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-duotone-900.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-duotone-900.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-duotone-900.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-duotone-900.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-duotone-900.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-duotone-900.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-light-300.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-light-300.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-light-300.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-light-300.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\icon-dukamarket.eot",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\icon-dukamarket.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon-dukamarket.eot"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\icon-dukamarket.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\icon-dukamarket.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon-dukamarket.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\icon-dukamarket.ttf",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\icon-dukamarket.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon-dukamarket.ttf"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\fonts\\icon-dukamarket.woff",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\fonts\\icon-dukamarket.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\icon-dukamarket.woff"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\about\\about-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\about\\about-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\about\\about-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\about\\about-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\about\\about-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\about\\about-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\about\\about-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\about\\about-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\about\\about-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\about-bg-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\about-bg-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\about-bg-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\about-inner-bg.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\about-inner-bg.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\about-inner-bg.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-12.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-13.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-13.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-7.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-7.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-7.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\banner-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\banner-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\comming-soon-banner.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\comming-soon-banner.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\comming-soon-banner.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-bg-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-bg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-bg-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-bg-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-bg-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-bg-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-bg-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-bg-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-bg-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-bg-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-bg-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-bg-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-big-bg1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-big-bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-big-bg1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-big-bg2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-big-bg2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-big-bg2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-big-bg3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-big-bg3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-big-bg3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\contact-big-bg4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\contact-big-bg4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-big-bg4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\coundpwn-bg-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\coundpwn-bg-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\coundpwn-bg-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\coundpwn-bg-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\mega-menu-shop-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\mega-menu-shop-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\mega-menu-shop-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\shop-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\shop-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\shop-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\tpbanner-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\tpbanner-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\tpbanner-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\banner\\video-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\banner\\video-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner\\video-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-bg-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-bg-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-bg-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-details-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-details-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-details-author.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-details-author.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-author.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-sm-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-sm-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-details-sm-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-sm-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-single-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-single-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-single-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-single-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-single-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-single-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-single-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-single-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-single-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-sm-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-sm-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sm-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-sm-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-sm-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sm-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-sm-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-sm-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sm-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-sm-4.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-sm-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sm-4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\blog-sm-5.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\blog-sm-5.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sm-5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\comment-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\comment-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\comment-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\comment-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\comment-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\comment-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\blog\\comment-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\blog\\comment-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\comment-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\brand\\brand-thumb-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\brand\\brand-thumb-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-thumb-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\cart\\cart-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\cart\\cart-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-12.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-12.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-13.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-13.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-14.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-14.png",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-14.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-15.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-15.png",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-15.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-16.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-16.png",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-16.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-17.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-17.png",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-17.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-7.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-8.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\catagory\\category-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\catagory\\category-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\catagory\\category-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home1-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home1-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home1-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home2-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home2-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home2-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home3-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home3-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home3-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home4-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home4-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home4-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home5-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home5-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home5-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\header\\home6-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\header\\home6-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header\\home6-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\about-svg1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\about-svg1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\about-svg1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\about-svg2.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\about-svg2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\about-svg2.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\about-svg3.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\about-svg3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\about-svg3.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\cart-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\cart-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\cart-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\choose-icon1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\choose-icon1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\choose-icon1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\choose-icon2.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\choose-icon2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\choose-icon2.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\choose-icon3.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\choose-icon3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\choose-icon3.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\choose-icon4.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\choose-icon4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\choose-icon4.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-10.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-10.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-10.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-2.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-2.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-3.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-3.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-4.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-4.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-5.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-5.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-5.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-6.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-6.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-6.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-7.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-7.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-7.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-8.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-8.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-8.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\feature-icon-9.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\feature-icon-9.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\feature-icon-9.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\icon\\product-shopping-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\icon\\product-shopping-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\product-shopping-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-4.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-5.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\insta\\insta-6.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\insta\\insta-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\insta\\insta-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\logo\\1favicon.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\logo\\1favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\1favicon.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\logo\\favicon.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\logo\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\logo\\logo.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\feature-shape-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\feature-shape-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\feature-shape-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\feature-shape-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\feature-shape-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\feature-shape-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\feature-shape-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\feature-shape-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\feature-shape-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\feature-thumb-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\feature-thumb-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\feature-thumb-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-details-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-details-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-details-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-details-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-details-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-details-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-detaisl-item1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-detaisl-item1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-detaisl-item1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-detaisl-item2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-detaisl-item2.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-detaisl-item2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-detaisl-item3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-detaisl-item3.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-detaisl-item3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-single-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-single-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-single-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\product-video1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\product-video1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product-video1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products1-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products1-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products1-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products10-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products10-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products10-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products11-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products11-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products11-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products12-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products12-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products12-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products13-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products13-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products13-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products14-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products14-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products14-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products15-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products15-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products15-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products16-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products16-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products16-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products17-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products17-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products17-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products18-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products18-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products18-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products19-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products19-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products19-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products2-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products2-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products2-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products20-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products20-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products20-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products21-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products21-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products21-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products22-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products22-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products22-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products23-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products23-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products23-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products24-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products24-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products24-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products25-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products25-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products25-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products26-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products26-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products26-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products27-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products27-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products27-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products28-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products28-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products28-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products29-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products29-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products29-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products3-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products3-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products3-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products30-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products30-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products30-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products31-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products31-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products31-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products32-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products32-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products32-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products33-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products33-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products33-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products34-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products34-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products34-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products35-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products35-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products35-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products36-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products36-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products36-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products37-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products37-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products37-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products38-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products38-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products38-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products39-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products39-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products39-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products4-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products4-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products4-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products40-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products40-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products40-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products41-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products41-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products41-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products42-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products42-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products42-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products43-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products43-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products43-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products44-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products44-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products44-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products45-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products45-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products45-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products46-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products46-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products46-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products47-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products47-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products47-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products48-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products48-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products48-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products5-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products5-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products5-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products6-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products6-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products6-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products7-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products7-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products7-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products8-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products8-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products8-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\products9-min.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\products9-min.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\products9-min.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\sidebar-pro-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\sidebar-pro-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-pro-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\sidebar-pro-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\sidebar-pro-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-pro-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\product\\sidebar-pro-3.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\product\\sidebar-pro-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-pro-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\about-img-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\about-img-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\about-img-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\about-img-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\about-img-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\about-img-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\choos-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\choos-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\choos-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\choos-bg-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\choos-bg-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\choos-bg-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\coca1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\coca1.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\coca1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\coca2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\coca2.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\coca2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\comming-shae-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\comming-shae-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\comming-shae-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\comming-shae-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\comming-shae-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\comming-shae-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\download-app.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\download-app.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\download-app.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\erorr-bg.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\erorr-bg.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\erorr-bg.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\erorr-shape.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\erorr-shape.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\erorr-shape.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\footer-payment.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\footer-payment.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\footer-payment.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\footer-shape-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\footer-shape-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\footer-shape-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\fresh-shape-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\fresh-shape-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\fresh-shape-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\fruits-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\fruits-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\fruits-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\fruits-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\fruits-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\fruits-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\message-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\message-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\message-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\payment-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\payment-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\payment-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\payment.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\payment.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\payment.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\play-icon.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\play-icon.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\play-icon.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\sidebar-product-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\sidebar-product-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\sidebar-product-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\slider-shape-01.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\slider-shape-01.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\slider-shape-01.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-1.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-1.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-2.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-2.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-3.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-3.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-4.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-4.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-5.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-5.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-5.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-6.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-6.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-6.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-7.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-7.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-7.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\tree-leaf-8.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\tree-leaf-8.png",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\tree-leaf-8.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\shape\\video-dots.svg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\shape\\video-dots.svg",
       "PackagePath": "staticwebassets\\assets\\img\\shape\\video-dots.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\shape-bg-2.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\shape-bg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\shape-bg-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\shape-bg.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\shape-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\shape-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-10.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-10.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-11.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-11.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-4.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-5.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-5.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-6.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-6.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-6.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-7.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-7.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-7.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-8.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-8.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-8.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-bg-9.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-bg-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-bg-9.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-logo-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-logo-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-logo-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-logo-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-logo-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-logo-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-logo-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-logo-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-logo-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-4.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-4.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-5.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-5.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-5.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\slider\\slider-shape-6.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\slider\\slider-shape-6.png",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-shape-6.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\testimonial\\test-avata-1.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\testimonial\\test-avata-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\test-avata-1.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\testimonial\\test-avata-2.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\testimonial\\test-avata-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\test-avata-2.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\testimonial\\test-avata-3.png",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\testimonial\\test-avata-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\test-avata-3.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\img\\testimonial\\testimonial-bg-1.jpg",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\img\\testimonial\\testimonial-bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-bg-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\ajax-form.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\ajax-form.js",
       "PackagePath": "staticwebassets\\assets\\js\\ajax-form.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\bup.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\bup.js",
       "PackagePath": "staticwebassets\\assets\\js\\bup.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\countdown.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\countdown.js",
       "PackagePath": "staticwebassets\\assets\\js\\countdown.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\counterup.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\counterup.js",
       "PackagePath": "staticwebassets\\assets\\js\\counterup.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\imagesloaded-pkgd.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\imagesloaded-pkgd.js",
       "PackagePath": "staticwebassets\\assets\\js\\imagesloaded-pkgd.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\isotope-pkgd.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\isotope-pkgd.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope-pkgd.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\jquery-ui.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\jquery-ui.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\jquery.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\jquery.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\magnific-popup.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\magnific-popup.js",
       "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\meanmenu.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\meanmenu.js",
       "PackagePath": "staticwebassets\\assets\\js\\meanmenu.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\nice-select.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\nice-select.js",
       "PackagePath": "staticwebassets\\assets\\js\\nice-select.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\parallax-effect.min.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\parallax-effect.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\parallax-effect.min.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\slick.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\slick.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\swiper-bundle.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\swiper-bundle.js",
       "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\waypoints.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\waypoints.js",
       "PackagePath": "staticwebassets\\assets\\js\\waypoints.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\js\\wow.js",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\js\\wow.js",
       "PackagePath": "staticwebassets\\assets\\js\\wow.js"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\mail.php",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\mail.php",
       "PackagePath": "staticwebassets\\assets\\mail.php"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\sass.txt",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\sass.txt",
       "PackagePath": "staticwebassets\\assets\\sass.txt"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_accordion.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_animation.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_animation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_animation.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_background.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_background.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_breadcrumb.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_carousel.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_modal.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_offcanvas.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_preloader.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_preloader.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_preloader.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_section-title.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_section-title.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_section-title.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_spacing.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_spacing.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_tab.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_tab.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_tab.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\components\\_theme.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\components\\_theme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\components\\_theme.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_about.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_about.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_banner.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_banner.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_blog.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_blog.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_brandproduct.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_brandproduct.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_brandproduct.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_cart.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_cart.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_cart.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_category.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_category.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_category.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_choose.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_choose.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_choose.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_coming-soon.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_coming-soon.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_coming-soon.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_contact.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_contact.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_coundown.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_coundown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_coundown.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_effect.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_effect.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_effect.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_faq.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_faq.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_faq.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_feature.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_feature.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_feature.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_footer.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_header.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_meanmenu.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_meanmenu.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_meanmenu.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_portfolio.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_portfolio.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_portfolio.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_product-details.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_product-details.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_product-details.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_product.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_product.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_product.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_services.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_services.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_services.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_shop-location.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_shop-location.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_shop-location.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_shop.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_shop.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_shop.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_slider.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_slider.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_slider.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_team.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_team.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_team.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\_testimonial.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\_testimonial.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\_testimonial.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\layout\\login.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\layout\\login.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\layout\\login.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\main.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\main.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\main.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_breakpoints.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_colors.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_colors.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_colors.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_index.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_index.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_index.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_mixins.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_root.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_root.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\assets\\scss\\utils\\_typography.scss",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\assets\\scss\\utils\\_typography.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\utils\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OrFarm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Orfarm.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OrFarm.props",
-      "PackagePath": "build\\OrFarm.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Orfarm.props",
+      "PackagePath": "build\\Orfarm.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OrFarm.props",
-      "PackagePath": "buildMultiTargeting\\OrFarm.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Orfarm.props",
+      "PackagePath": "buildMultiTargeting\\Orfarm.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OrFarm.props",
-      "PackagePath": "buildTransitive\\OrFarm.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Orfarm.props",
+      "PackagePath": "buildTransitive\\Orfarm.props"
     }
   ],
   "ElementsToRemove": []

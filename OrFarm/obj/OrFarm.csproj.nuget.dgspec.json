@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\OrFarm.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\Orfarm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\OrFarm.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\Orfarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\OrFarm.csproj",
-        "projectName": "OrFarm",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\OrFarm.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\Orfarm.csproj",
+        "projectName": "Orfarm",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\Orfarm.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm\\OrFarm\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Projects\\OrFarm232\\Orfarm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +45,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
             }
           },
           "imports": [
