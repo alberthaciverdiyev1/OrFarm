@@ -30,6 +30,20 @@ namespace OrFarm.Controllers.Account
         {
             return View("~/Views/Account/Register/Index.cshtml");
         }
+        public async Task<IActionResult> CreateRole()
+        {
+            string[] rolenames = { UserRole.ADMIN, UserRole.MODERATOR, UserRole.USER, UserRole.DEVELOPER };
+            foreach (var role in rolenames)
+            {
+                if (!await _roleManager.RoleExistsAsync(role))
+                {
+                    await _roleManager.CreateAsync(new UserRole { Name = role });
+
+                }
+            }
+            return RedirectToAction(nameof(Index), "Home");
+
+        }
 
         [HttpPost]
         public async Task<IActionResult> Register(RegisterVM register)
@@ -43,7 +57,7 @@ namespace OrFarm.Controllers.Account
                 if (check != null)
                 {
                     ModelState.AddModelError(string.Empty, "This user already exists");
-                    return View();
+                    return View("~/Views/Account/Register/Index.cshtml");
 
                 }
             }
@@ -53,22 +67,23 @@ namespace OrFarm.Controllers.Account
                 Email = register.Email,
                 Name = register.Name,
                 Surname = register.Surname,
-                //Username = register.Username,
+                UserName = register.Username,
             };
             IdentityResult result = await _userManager.CreateAsync(user, register.Password);
+            await _userManager.AddToRoleAsync(user, UserRole.USER);
             if (!result.Succeeded)
             {
                 foreach (var error in result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
-                return View();
+                return View("~/Views/Account/Register/Index.cshtml");
 
             }
             await _signInManager.SignInAsync(user, false);
 
 
-            return View();
+            return RedirectToAction(nameof(Index), "Home");
         }
     }
 }

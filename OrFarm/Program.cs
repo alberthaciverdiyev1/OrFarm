@@ -14,7 +14,7 @@ builder.Services.AddIdentity<AppUser, UserRole>(x =>
     x.Password.RequireNonAlphanumeric = false;
     x.Password.RequireUppercase = false;
     x.Password.RequiredLength = 4;
-    x.SignIn.RequireConfirmedEmail = true;
+    x.SignIn.RequireConfirmedEmail = false;
     x.User.RequireUniqueEmail = true;
 }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 var app = builder.Build();
@@ -55,7 +55,7 @@ app.UseEndpoints(endpoints =>
 
     endpoints.MapControllerRoute(
         name: "Register",
-        pattern: "Register/{action=Index}",
+        pattern: "Register/{action=CreateRole}",
         defaults: new { controller = "Register" });
 
     // WishList Folder

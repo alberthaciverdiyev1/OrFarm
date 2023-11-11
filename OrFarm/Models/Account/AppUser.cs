@@ -2,7 +2,7 @@
 
 namespace OrFarm.Models.Account
 {
-    public class AppUser:IdentityUser<string>
+    public class AppUser:IdentityUser<int>
     {
         public string? Name { get; set; }
         public string? Surname { get; set; }

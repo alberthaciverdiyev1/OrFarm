@@ -5,7 +5,7 @@ using System.Reflection.Metadata;
 
 namespace OrFarm.DAL
 {
-    public class AppDbContext : IdentityDbContext<AppUser, UserRole, string>
+    public class AppDbContext : IdentityDbContext<AppUser, UserRole, int>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
